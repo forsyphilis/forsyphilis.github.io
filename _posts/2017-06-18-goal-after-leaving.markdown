@@ -6,7 +6,7 @@ categories:
 ---
 
 퇴사도 밴드에서 나오는 날도 며칠 남지 않았다.  
-I will leving the companies soon.
+I will leaving the companies soon.
 
 얼마나 오래 쉬어야 될런지 모르겠지만, 몇가지 목표를 세워보자.  
 I don't know how long I need to rest, but let's set some goals.  
