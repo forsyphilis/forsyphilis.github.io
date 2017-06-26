@@ -10,7 +10,7 @@ categories:
 빌드 하기 전, 설치해야 되는 요구사항과 의존성에 대한 설명이 꽤 자세히 나와있어서
 iOS 시뮬레이터로 띄우기까지는 그다지 어렵지 않았다.
 
-다음은 빌드해서 띄워 본 화면이다. 
+다음은 빌드해서 시뮬레이터로 띄워 본 화면이다. 
 
 ![Status Intro](/assets/status-1.png)
 ![Status Screen#1](/assets/status-screen1.png)
@@ -28,4 +28,4 @@ iOS 시뮬레이터로 띄우기까지는 그다지 어렵지 않았다.
 다음처럼 에러가 발생할 뿐 뭔가 진행이 되지 않았다.
 ![web3 Error](/assets/status-error.png)
 
-
+(계속)
